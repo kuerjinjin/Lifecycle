@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="content">安卓APP生命周期的演示:\n\n\t\t在 Android Monitor 窗口下的 logcat 中能看到所有的调试信息，
+        修改 Log level 为 Info 可以看到“信息等级”的调试信息，在右侧的选框中输入 kenny_log 筛选出来的就是我们想看到的调试信息。</string>
+</resources>
